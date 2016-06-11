@@ -12,15 +12,7 @@
                     "endOffset": 245
                 },
                 "from": {
-                    "file": "E:\\AndroidApps\\mememaker\\app\\src\\main\\res\\values\\array.xml",
-                    "position": {
-                        "startLine": 12,
-                        "startColumn": 4,
-                        "startOffset": 392,
-                        "endLine": 18,
-                        "endColumn": 19,
-                        "endOffset": 582
-                    }
+                    "file": "E:\\AndroidApps\\mememaker\\app\\src\\main\\res\\values\\array.xml"
                 }
             },
             {
@@ -33,15 +25,7 @@
                     "endOffset": 452
                 },
                 "from": {
-                    "file": "E:\\AndroidApps\\mememaker\\app\\src\\main\\res\\values\\array.xml",
-                    "position": {
-                        "startLine": 20,
-                        "startColumn": 4,
-                        "startOffset": 588,
-                        "endLine": 26,
-                        "endColumn": 19,
-                        "endOffset": 790
-                    }
+                    "file": "E:\\AndroidApps\\mememaker\\app\\src\\main\\res\\values\\array.xml"
                 }
             },
             {
@@ -54,15 +38,7 @@
                     "endOffset": 618
                 },
                 "from": {
-                    "file": "E:\\AndroidApps\\mememaker\\app\\src\\main\\res\\values\\array.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 55,
-                        "endLine": 6,
-                        "endColumn": 19,
-                        "endOffset": 216
-                    }
+                    "file": "E:\\AndroidApps\\mememaker\\app\\src\\main\\res\\values\\array.xml"
                 }
             },
             {
@@ -75,15 +51,7 @@
                     "endOffset": 789
                 },
                 "from": {
-                    "file": "E:\\AndroidApps\\mememaker\\app\\src\\main\\res\\values\\array.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 221,
-                        "endLine": 11,
-                        "endColumn": 19,
-                        "endOffset": 387
-                    }
+                    "file": "E:\\AndroidApps\\mememaker\\app\\src\\main\\res\\values\\array.xml"
                 }
             },
             {
@@ -95,14 +63,7 @@
                     "endOffset": 837
                 },
                 "from": {
-                    "file": "E:\\AndroidApps\\mememaker\\app\\src\\main\\res\\values\\colors.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 103,
-                        "endColumn": 47,
-                        "endOffset": 146
-                    }
+                    "file": "E:\\AndroidApps\\mememaker\\app\\src\\main\\res\\values\\colors.xml"
                 }
             },
             {
@@ -114,14 +75,7 @@
                     "endOffset": 885
                 },
                 "from": {
-                    "file": "E:\\AndroidApps\\mememaker\\app\\src\\main\\res\\values\\colors.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 55,
-                        "endColumn": 47,
-                        "endOffset": 98
-                    }
+                    "file": "E:\\AndroidApps\\mememaker\\app\\src\\main\\res\\values\\colors.xml"
                 }
             },
             {
@@ -133,14 +87,7 @@
                     "endOffset": 943
                 },
                 "from": {
-                    "file": "E:\\AndroidApps\\mememaker\\app\\src\\main\\res\\values\\dimens.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 88,
-                        "endColumn": 57,
-                        "endOffset": 141
-                    }
+                    "file": "E:\\AndroidApps\\mememaker\\app\\src\\main\\res\\values\\dimens.xml"
                 }
             },
             {
@@ -152,14 +99,7 @@
                     "endOffset": 999
                 },
                 "from": {
-                    "file": "E:\\AndroidApps\\mememaker\\app\\src\\main\\res\\values\\dimens.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 146,
-                        "endColumn": 55,
-                        "endOffset": 197
-                    }
+                    "file": "E:\\AndroidApps\\mememaker\\app\\src\\main\\res\\values\\dimens.xml"
                 }
             },
             {
@@ -171,14 +111,7 @@
                     "endOffset": 1051
                 },
                 "from": {
-                    "file": "E:\\AndroidApps\\mememaker\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 25,
-                        "startColumn": 4,
-                        "startOffset": 1417,
-                        "endColumn": 51,
-                        "endOffset": 1464
-                    }
+                    "file": "E:\\AndroidApps\\mememaker\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
@@ -190,14 +123,7 @@
                     "endOffset": 1096
                 },
                 "from": {
-                    "file": "E:\\AndroidApps\\mememaker\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 12,
-                        "startColumn": 4,
-                        "startOffset": 559,
-                        "endColumn": 44,
-                        "endOffset": 599
-                    }
+                    "file": "E:\\AndroidApps\\mememaker\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
@@ -209,14 +135,7 @@
                     "endOffset": 1149
                 },
                 "from": {
-                    "file": "E:\\AndroidApps\\mememaker\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 11,
-                        "startColumn": 4,
-                        "startOffset": 506,
-                        "endColumn": 52,
-                        "endOffset": 554
-                    }
+                    "file": "E:\\AndroidApps\\mememaker\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
@@ -228,14 +147,7 @@
                     "endOffset": 1202
                 },
                 "from": {
-                    "file": "E:\\AndroidApps\\mememaker\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 19,
-                        "startColumn": 4,
-                        "startOffset": 1027,
-                        "endColumn": 52,
-                        "endOffset": 1075
-                    }
+                    "file": "E:\\AndroidApps\\mememaker\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
@@ -247,14 +159,7 @@
                     "endOffset": 1250
                 },
                 "from": {
-                    "file": "E:\\AndroidApps\\mememaker\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 56,
-                        "endColumn": 47,
-                        "endOffset": 99
-                    }
+                    "file": "E:\\AndroidApps\\mememaker\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
@@ -262,17 +167,17 @@
                     "startLine": 35,
                     "startColumn": 4,
                     "startOffset": 1255,
-                    "endColumn": 54,
-                    "endOffset": 1305
+                    "endColumn": 58,
+                    "endOffset": 1309
                 },
                 "from": {
                     "file": "E:\\AndroidApps\\mememaker\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
-                        "startLine": 18,
+                        "startLine": 28,
                         "startColumn": 4,
-                        "startOffset": 972,
-                        "endColumn": 54,
-                        "endOffset": 1022
+                        "startOffset": 1567,
+                        "endColumn": 58,
+                        "endOffset": 1621
                     }
                 }
             },
@@ -280,265 +185,174 @@
                 "to": {
                     "startLine": 36,
                     "startColumn": 4,
-                    "startOffset": 1310,
-                    "endColumn": 57,
-                    "endOffset": 1363
+                    "startOffset": 1314,
+                    "endColumn": 54,
+                    "endOffset": 1364
                 },
                 "from": {
-                    "file": "E:\\AndroidApps\\mememaker\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 14,
-                        "startColumn": 4,
-                        "startOffset": 673,
-                        "endColumn": 57,
-                        "endOffset": 726
-                    }
+                    "file": "E:\\AndroidApps\\mememaker\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 37,
                     "startColumn": 4,
-                    "startOffset": 1368,
-                    "endColumn": 97,
-                    "endOffset": 1461
+                    "startOffset": 1369,
+                    "endColumn": 57,
+                    "endOffset": 1422
                 },
                 "from": {
-                    "file": "E:\\AndroidApps\\mememaker\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 15,
-                        "startColumn": 4,
-                        "startOffset": 731,
-                        "endColumn": 97,
-                        "endOffset": 824
-                    }
+                    "file": "E:\\AndroidApps\\mememaker\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 38,
                     "startColumn": 4,
-                    "startOffset": 1466,
+                    "startOffset": 1427,
                     "endColumn": 97,
-                    "endOffset": 1559
+                    "endOffset": 1520
                 },
                 "from": {
-                    "file": "E:\\AndroidApps\\mememaker\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 16,
-                        "startColumn": 4,
-                        "startOffset": 829,
-                        "endColumn": 97,
-                        "endOffset": 922
-                    }
+                    "file": "E:\\AndroidApps\\mememaker\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 39,
                     "startColumn": 4,
-                    "startOffset": 1564,
-                    "endColumn": 44,
-                    "endOffset": 1604
+                    "startOffset": 1525,
+                    "endColumn": 97,
+                    "endOffset": 1618
                 },
                 "from": {
-                    "file": "E:\\AndroidApps\\mememaker\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 17,
-                        "startColumn": 4,
-                        "startOffset": 927,
-                        "endColumn": 44,
-                        "endOffset": 967
-                    }
+                    "file": "E:\\AndroidApps\\mememaker\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 40,
                     "startColumn": 4,
-                    "startOffset": 1609,
-                    "endColumn": 68,
-                    "endOffset": 1673
+                    "startOffset": 1623,
+                    "endColumn": 44,
+                    "endOffset": 1663
                 },
                 "from": {
-                    "file": "E:\\AndroidApps\\mememaker\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 13,
-                        "startColumn": 4,
-                        "startOffset": 604,
-                        "endColumn": 68,
-                        "endOffset": 668
-                    }
+                    "file": "E:\\AndroidApps\\mememaker\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 41,
                     "startColumn": 4,
-                    "startOffset": 1678,
-                    "endColumn": 69,
-                    "endOffset": 1743
+                    "startOffset": 1668,
+                    "endColumn": 68,
+                    "endOffset": 1732
                 },
                 "from": {
-                    "file": "E:\\AndroidApps\\mememaker\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 264,
-                        "endColumn": 69,
-                        "endOffset": 329
-                    }
+                    "file": "E:\\AndroidApps\\mememaker\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 42,
                     "startColumn": 4,
-                    "startOffset": 1748,
-                    "endColumn": 56,
-                    "endOffset": 1800
+                    "startOffset": 1737,
+                    "endColumn": 69,
+                    "endOffset": 1802
                 },
                 "from": {
-                    "file": "E:\\AndroidApps\\mememaker\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 152,
-                        "endColumn": 56,
-                        "endOffset": 204
-                    }
+                    "file": "E:\\AndroidApps\\mememaker\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 43,
                     "startColumn": 4,
-                    "startOffset": 1805,
-                    "endColumn": 47,
-                    "endOffset": 1848
+                    "startOffset": 1807,
+                    "endColumn": 56,
+                    "endOffset": 1859
                 },
                 "from": {
-                    "file": "E:\\AndroidApps\\mememaker\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 104,
-                        "endColumn": 47,
-                        "endOffset": 147
-                    }
+                    "file": "E:\\AndroidApps\\mememaker\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 44,
                     "startColumn": 4,
-                    "startOffset": 1853,
-                    "endColumn": 54,
-                    "endOffset": 1903
+                    "startOffset": 1864,
+                    "endColumn": 47,
+                    "endOffset": 1907
                 },
                 "from": {
-                    "file": "E:\\AndroidApps\\mememaker\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 209,
-                        "endColumn": 54,
-                        "endOffset": 259
-                    }
+                    "file": "E:\\AndroidApps\\mememaker\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 45,
                     "startColumn": 4,
-                    "startOffset": 1908,
-                    "endColumn": 43,
-                    "endOffset": 1947
+                    "startOffset": 1912,
+                    "endColumn": 54,
+                    "endOffset": 1962
                 },
                 "from": {
-                    "file": "E:\\AndroidApps\\mememaker\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 24,
-                        "startColumn": 4,
-                        "startOffset": 1373,
-                        "endColumn": 43,
-                        "endOffset": 1412
-                    }
+                    "file": "E:\\AndroidApps\\mememaker\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 46,
                     "startColumn": 4,
-                    "startOffset": 1952,
-                    "endColumn": 52,
-                    "endOffset": 2000
+                    "startOffset": 1967,
+                    "endColumn": 43,
+                    "endOffset": 2006
                 },
                 "from": {
-                    "file": "E:\\AndroidApps\\mememaker\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 381,
-                        "endColumn": 52,
-                        "endOffset": 429
-                    }
+                    "file": "E:\\AndroidApps\\mememaker\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 47,
                     "startColumn": 4,
-                    "startOffset": 2005,
-                    "endColumn": 46,
-                    "endOffset": 2047
+                    "startOffset": 2011,
+                    "endColumn": 52,
+                    "endOffset": 2059
                 },
                 "from": {
-                    "file": "E:\\AndroidApps\\mememaker\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 334,
-                        "endColumn": 46,
-                        "endOffset": 376
-                    }
+                    "file": "E:\\AndroidApps\\mememaker\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 48,
                     "startColumn": 4,
-                    "startOffset": 2052,
-                    "endColumn": 71,
-                    "endOffset": 2119
+                    "startOffset": 2064,
+                    "endColumn": 46,
+                    "endOffset": 2106
                 },
                 "from": {
-                    "file": "E:\\AndroidApps\\mememaker\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 10,
-                        "startColumn": 4,
-                        "startOffset": 434,
-                        "endColumn": 71,
-                        "endOffset": 501
-                    }
+                    "file": "E:\\AndroidApps\\mememaker\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 49,
                     "startColumn": 4,
-                    "startOffset": 2124,
-                    "endColumn": 72,
-                    "endOffset": 2192
+                    "startOffset": 2111,
+                    "endColumn": 47,
+                    "endOffset": 2154
                 },
                 "from": {
                     "file": "E:\\AndroidApps\\mememaker\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
-                        "startLine": 23,
+                        "startLine": 26,
                         "startColumn": 4,
-                        "startOffset": 1300,
-                        "endColumn": 72,
-                        "endOffset": 1368
+                        "startOffset": 1469,
+                        "endColumn": 47,
+                        "endOffset": 1512
                     }
                 }
             },
@@ -546,18 +360,18 @@
                 "to": {
                     "startLine": 50,
                     "startColumn": 4,
-                    "startOffset": 2197,
-                    "endColumn": 80,
-                    "endOffset": 2273
+                    "startOffset": 2159,
+                    "endColumn": 49,
+                    "endOffset": 2204
                 },
                 "from": {
                     "file": "E:\\AndroidApps\\mememaker\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
-                        "startLine": 22,
+                        "startLine": 27,
                         "startColumn": 4,
-                        "startOffset": 1219,
-                        "endColumn": 80,
-                        "endOffset": 1295
+                        "startOffset": 1517,
+                        "endColumn": 49,
+                        "endOffset": 1562
                     }
                 }
             },
@@ -565,80 +379,86 @@
                 "to": {
                     "startLine": 51,
                     "startColumn": 4,
-                    "startOffset": 2278,
-                    "endColumn": 78,
-                    "endOffset": 2352
+                    "startOffset": 2209,
+                    "endColumn": 71,
+                    "endOffset": 2276
                 },
                 "from": {
-                    "file": "E:\\AndroidApps\\mememaker\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 21,
-                        "startColumn": 4,
-                        "startOffset": 1140,
-                        "endColumn": 78,
-                        "endOffset": 1214
-                    }
+                    "file": "E:\\AndroidApps\\mememaker\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 52,
                     "startColumn": 4,
-                    "startOffset": 2357,
-                    "endColumn": 59,
-                    "endOffset": 2412
+                    "startOffset": 2281,
+                    "endColumn": 72,
+                    "endOffset": 2349
                 },
                 "from": {
-                    "file": "E:\\AndroidApps\\mememaker\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 20,
-                        "startColumn": 4,
-                        "startOffset": 1080,
-                        "endColumn": 59,
-                        "endOffset": 1135
-                    }
+                    "file": "E:\\AndroidApps\\mememaker\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 53,
                     "startColumn": 4,
-                    "startOffset": 2417,
-                    "endLine": 55,
-                    "endColumn": 12,
-                    "endOffset": 2545
+                    "startOffset": 2354,
+                    "endColumn": 80,
+                    "endOffset": 2430
                 },
                 "from": {
-                    "file": "E:\\AndroidApps\\mememaker\\app\\src\\main\\res\\values\\styles.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 54,
-                        "endLine": 5,
-                        "endColumn": 12,
-                        "endOffset": 182
-                    }
+                    "file": "E:\\AndroidApps\\mememaker\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 2435,
+                    "endColumn": 78,
+                    "endOffset": 2509
+                },
+                "from": {
+                    "file": "E:\\AndroidApps\\mememaker\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 2514,
+                    "endColumn": 59,
+                    "endOffset": 2569
+                },
+                "from": {
+                    "file": "E:\\AndroidApps\\mememaker\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 56,
                     "startColumn": 4,
-                    "startOffset": 2550,
+                    "startOffset": 2574,
                     "endLine": 58,
                     "endColumn": 12,
-                    "endOffset": 2641
+                    "endOffset": 2702
                 },
                 "from": {
-                    "file": "E:\\AndroidApps\\mememaker\\app\\src\\main\\res\\values\\styles.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 188,
-                        "endLine": 9,
-                        "endColumn": 12,
-                        "endOffset": 279
-                    }
+                    "file": "E:\\AndroidApps\\mememaker\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 2707,
+                    "endLine": 61,
+                    "endColumn": 12,
+                    "endOffset": 2798
+                },
+                "from": {
+                    "file": "E:\\AndroidApps\\mememaker\\app\\src\\main\\res\\values\\styles.xml"
                 }
             }
         ]

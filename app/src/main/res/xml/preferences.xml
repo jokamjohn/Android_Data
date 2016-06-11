@@ -2,4 +2,11 @@
 
 <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
 
+    <ListPreference
+        android:key="@string/storage_key"
+        android:title="@string/storage_title"
+        android:dialogTitle="@string/storage_title"
+        android:entries="@array/storageEntries"
+        android:entryValues="@array/storageValueEntries"
+        android:defaultValue="@string/default_storage_value"/>
 </PreferenceScreen>

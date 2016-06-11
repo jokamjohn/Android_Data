@@ -1,4 +1,6 @@
-CHANGED,E:\AndroidApps\mememaker\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\teamtreehouse\mememaker\utils\FileUtilities$override.class
-CHANGED,E:\AndroidApps\mememaker\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\teamtreehouse\mememaker\MemeMakerApplicationSettings$override.class
-CHANGED,E:\AndroidApps\mememaker\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\teamtreehouse\mememaker\utils\FileUtilities$1$override.class
+CHANGED,E:\AndroidApps\mememaker\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\teamtreehouse\mememaker\ui\fragments\MemeItemFragment$2$override.class
+CHANGED,E:\AndroidApps\mememaker\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\teamtreehouse\mememaker\adapters\SectionsPagerAdapter$override.class
+CHANGED,E:\AndroidApps\mememaker\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\teamtreehouse\mememaker\ui\fragments\MemeItemFragment$override.class
+CHANGED,E:\AndroidApps\mememaker\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\teamtreehouse\mememaker\ui\activities\MainActivity$override.class
+CHANGED,E:\AndroidApps\mememaker\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\teamtreehouse\mememaker\ui\fragments\ImageGridFragment$2$override.class
 CHANGED,E:\AndroidApps\mememaker\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
