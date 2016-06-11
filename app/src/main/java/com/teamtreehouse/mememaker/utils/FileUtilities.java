@@ -21,7 +21,7 @@ public class FileUtilities {
 
     //copy files to internal storage.
     public static void saveAssetImage(Context context, String assetName) {
-        File fileDirectory = context.getFilesDir();//File directory
+        File fileDirectory = getFilesDirectory(context);//File directory
         File fileToWrite = new File(fileDirectory,assetName);
 
         //Asset manager to access files in the assets folder
@@ -61,7 +61,7 @@ public class FileUtilities {
     public static File [] listedFiles(Context context)
     {
         //Get the file directory
-        final File fileDirectory = context.getFilesDir();
+        final File fileDirectory = getFilesDirectory(context);
         //Get the jpg stored in the files folder.
         File[] filteredFiles = fileDirectory.listFiles(new FileFilter() {
             @Override
@@ -71,6 +71,43 @@ public class FileUtilities {
         });
 
         return filteredFiles;
+    }
+
+    /**
+     * Get the files Directory.
+     *
+     * @param context Context
+     * @return File
+     */
+    public static File getFilesDirectory(Context context) {
+        String storageType = StorageType.INTERNAL;
+
+        if (storageType.equals(StorageType.INTERNAL))
+        {
+            return context.getFilesDir();
+        }
+        else {
+            if (isExternalStorageAvailable())
+            {
+                if (storageType.equals(StorageType.PRIVATE_EXTERNAL))
+                {
+                    return context.getExternalFilesDir(null);
+                }else {
+                    return Environment.getExternalStoragePublicDirectory(Environment.DIRECTORY_PICTURES);
+                }
+            }else {
+                return context.getFilesDir();
+            }
+        }
+    }
+
+    /**
+     *
+     * @return External Media Availability
+     */
+    private static boolean isExternalStorageAvailable() {
+        String state = Environment.getExternalStorageState();
+        return Environment.MEDIA_MOUNTED.equals(state);
     }
 
     public static Uri saveImageForSharing(Context context, Bitmap bitmap,  String assetName) {
@@ -92,7 +129,7 @@ public class FileUtilities {
 
 
     public static void saveImage(Context context, Bitmap bitmap, String name) {
-        File fileDirectory = context.getFilesDir();
+        File fileDirectory = getFilesDirectory(context);
         File fileToWrite = new File(fileDirectory, name);
 
         try {
