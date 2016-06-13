@@ -1,7 +1,2 @@
 CHANGED,E:\AndroidApps\mememaker\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\teamtreehouse\mememaker\database\MemeDatasource$override.class
-CHANGED,E:\AndroidApps\mememaker\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\teamtreehouse\mememaker\ui\fragments\MemeItemFragment$2$override.class
-CHANGED,E:\AndroidApps\mememaker\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\teamtreehouse\mememaker\database\MemeSQLiteHelper$override.class
-CHANGED,E:\AndroidApps\mememaker\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\teamtreehouse\mememaker\ui\fragments\MemeItemFragment$override.class
-CHANGED,E:\AndroidApps\mememaker\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\teamtreehouse\mememaker\ui\fragments\MemeItemFragment$1$override.class
-CHANGED,E:\AndroidApps\mememaker\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\teamtreehouse\mememaker\ui\fragments\MemeItemFragment$2$1$override.class
 CHANGED,E:\AndroidApps\mememaker\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class

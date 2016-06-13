@@ -2,39 +2,37 @@
 <instant-run
     abi="x86"
     api-level="23"
-    density="xxxhdpi"
+    density="xxhdpi"
     format="7"
-    timestamp="247988358916726"
+    timestamp="134419306419443"
     token="180128900583083106" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="1857" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="85" />
     <task
         name="verifier"
-        duration="0" />
+        duration="51" />
 
-    <build timestamp="240370851979635" >
+    <artifact
+        location="E:\AndroidApps\mememaker\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"
+        type="DEX" />
+
+    <build timestamp="134177900245634" >
         <artifact
             location="E:\AndroidApps\mememaker\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
     </build>
-    <build
-        timestamp="247904209190384"
-        verifier="PARENT_CLASS_CHANGED" >
+    <build timestamp="134419306419443" >
         <artifact
             location="E:\AndroidApps\mememaker\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"
             type="DEX" />
-        <artifact
-            location="E:\AndroidApps\mememaker\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"
-            type="DEX" />
     </build>
-    <build timestamp="247988358916726" />
 
 </instant-run>

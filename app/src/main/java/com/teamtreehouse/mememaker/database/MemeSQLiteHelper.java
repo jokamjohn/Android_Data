@@ -10,15 +10,15 @@ import android.provider.BaseColumns;
  */
 public class MemeSQLiteHelper extends SQLiteOpenHelper{
 
-    private static final int DB_VERSION = 1;
-    private static final String DB_NAME = "meme.db";
-    private static final String MEMES_TABLE = "MEMES";
-    private static final String ASSET_COLUMN = "ASSET_COLUMN";
-    private static final String NAME_COLUMN = "NAME_COLUMN";
-    private static final String CREATE_MEME = "CREATE TABLE " + MEMES_TABLE + "("
+    public static final int DB_VERSION = 1;
+    public static final String DB_NAME = "meme.db";
+    public static final String MEMES_TABLE = "MEMES";
+    public static final String COLUMN_ASSET = "COLUMN_ASSET";
+    public static final String COLUMN_NAME = "COLUMN_NAME";
+    public static final String CREATE_MEME = "CREATE TABLE " + MEMES_TABLE + "("
             + BaseColumns._ID + " INTEGER PRIMARY KEY AUTOINCREMENT," +
-            ASSET_COLUMN + " TEXT," +
-            NAME_COLUMN + " TEXT)";
+            COLUMN_ASSET + " TEXT," +
+            COLUMN_NAME + " TEXT)";
 
     //Meme Table Annotations functionality
     public static final String ANNOTATIONS_TABLE = "ANNOTATIONS";
