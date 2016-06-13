@@ -149,4 +149,43 @@ public class MemeDatasource {
         int columnIndex = cursor.getColumnIndex(columnName);
         return cursor.getString(columnIndex); //Returns the value of the column index as a string
     }
+
+    public void update(Meme meme)
+    {
+        SQLiteDatabase database = open();
+        database.beginTransaction();
+        //Update the meme
+        ContentValues updateMeme = new ContentValues();
+        updateMeme.put(MemeSQLiteHelper.COLUMN_NAME, meme.getName());
+        database.update(MemeSQLiteHelper.MEMES_TABLE,
+                updateMeme,
+                String.format("%s=%d", BaseColumns._ID,meme.getId()),
+                null);
+
+        //Update the annotations
+        for (MemeAnnotation annotation : meme.getAnnotations())
+        {
+            ContentValues updateAnnotationValues = new ContentValues();
+            updateAnnotationValues.put(MemeSQLiteHelper.COLUMN_ANNOTATION_TITLE, annotation.getTitle());
+            updateAnnotationValues.put(MemeSQLiteHelper.COLUMN_ANNOTATION_COLOR, annotation.getColor());
+            updateAnnotationValues.put(MemeSQLiteHelper.COLUMN_ANNOTATION_X, annotation.getLocationX());
+            updateAnnotationValues.put(MemeSQLiteHelper.COLUMN_ANNOTATION_Y, annotation.getLocationY());
+
+            if (annotation.hasBeenSaved())
+            {
+                database.update(MemeSQLiteHelper.ANNOTATIONS_TABLE,
+                        updateAnnotationValues,
+                        String.format("%s=%d", BaseColumns._ID, annotation.getId()),
+                        null);
+            }else {
+                database.insert(MemeSQLiteHelper.ANNOTATIONS_TABLE,
+                        null,
+                        updateAnnotationValues);
+            }
+
+        }
+        database.setTransactionSuccessful();
+        database.endTransaction();
+        close(database);
+    }
 }
