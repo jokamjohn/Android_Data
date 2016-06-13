@@ -188,4 +188,22 @@ public class MemeDatasource {
         database.endTransaction();
         close(database);
     }
+
+    public void delete (int memeId)
+    {
+        //Delete the annotation first because of the foreign key constraint
+        SQLiteDatabase database = open();
+        database.beginTransaction();
+
+        database.delete(MemeSQLiteHelper.ANNOTATIONS_TABLE,
+                String.format("%s=%s",MemeSQLiteHelper.COLUMN_FOREIGN_KEY_MEME,String.valueOf(memeId)),
+                null);
+
+        //Delete the meme.
+        database.delete(MemeSQLiteHelper.MEMES_TABLE,
+                String.format("%s=%s",BaseColumns._ID, String.valueOf(memeId)),
+                null);
+        database.setTransactionSuccessful();
+        database.endTransaction();
+    }
 }
